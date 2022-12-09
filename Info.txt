@@ -1,0 +1,23 @@
+Website        
+                                                                                                                                                                                                                                                                                         
+Name = Informant
+
+Type = Search Engine
+
+Design = Google UI Design
+
+Logo = Informant double
+
+Developers = @Techobeast07 , @ShivamJoshi25 , Shinjan 
+
+UI Developer = @Techobeast07 (designer), @ShivamJoshi25 (suggest) Shinjan (suggestor)
+
+Backend Developers = @Techobeast07 , @ShivamJoshi25 Shinjan (suggestor)
+
+Suggestors = Shinjan @ShivamJoshi25 
+
+Python Developers = Shinjan @ShivamJoshi25 @Techobeast07 
+
+Front End Developers = @Techobeast07(designer), @ShivamJoshi25 (suggestor), Shinjan (suggestor)
+
+===========Best of Luck===========
